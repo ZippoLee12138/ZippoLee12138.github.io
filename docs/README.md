@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo.png
+heroImage: /diamond.png
 heroText: blog-demo
 tagline: 博客示例
 actionText: 快速上手 →
