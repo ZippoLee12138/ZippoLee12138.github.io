@@ -9,11 +9,13 @@ module.exports = {
         repoLabel: 'My GitHub',
         nav: [
             { text: 'Home', link: '/' },
-            { text: 'FirstBlog', link: '/blog/FirstBlog.md' }
+            { text: 'FirstBlog', link: '/blog/FirstBlog.md' },
+            { text: 'php测试', link: '/php/test.md' }
         ],
         sidebar: [
             ['/', '首页'],
-            ['/blog/FirstBlog.md', '我的第一篇博客']
+            ['/blog/FirstBlog.md', '我的第一篇博客'],
+            ['/php/test.md', 'php测试']
           ]
     }
   }
